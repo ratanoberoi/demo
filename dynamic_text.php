@@ -12,6 +12,6 @@ $tite = "Ratan Oberoi Official Site";
 
 <h1><?php echo $title; ?></h1>
 <h2><?php echo $title; ?></h2>
-    
+<h3><?php echo $title; ?></h3>
 </body>
 </html>
