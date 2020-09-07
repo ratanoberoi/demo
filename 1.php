@@ -35,6 +35,7 @@
 	<h3>test3</h3>
 	<h4>test4</h4>
 	<h5>test5</h5>
+	<h6>test666</h6>
 
 		</article><!--MAIN CONTENT-->
 
