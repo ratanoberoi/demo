@@ -31,7 +31,7 @@
 		?>
 
 	<h1>testheader</h1>
-	<h2>test2</h2>
+	<h2>test2header</h2>
 	<h3>test3</h3>
 	<h4>test4</h4>
 	<h5>test5</h5>
