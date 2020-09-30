@@ -12,6 +12,8 @@ $numberList = array(25,264,52,'99',348, '<h1>Hello</h1>');
 
 echo $numberList [0];
 
+echo $numberList [1];
+
 ?>
 
 </body>
