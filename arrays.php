@@ -14,6 +14,8 @@ echo $numberList [0];
 
 echo $numberList [1];
 
+echo $numberList [2];
+
 ?>
 
 </body>
