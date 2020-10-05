@@ -22,6 +22,8 @@ echo $numberList [4];
 
 echo $numberList [5];
 
+echo $numberList [6];
+
 
 ?>
 
