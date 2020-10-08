@@ -28,6 +28,7 @@ echo $numberList [7];
 
 echo $numberList [8];
 
+echo $numberList [9];
 
 
 ?>
