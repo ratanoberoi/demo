@@ -14,6 +14,8 @@ echo $number [2] . "<br>";
 
 $names = array("first_name" => 'Ratan');
 
+$names = array("first_name" => 'Ratan');
+
 ?>
 
 
