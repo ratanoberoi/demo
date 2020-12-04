@@ -60,6 +60,8 @@ $names = array("first_name" => 'Ratan');
 
 $names = array("first_name" => 'Ratan');
 
+$names = array("first_name" => 'Ratan');
+
 ?>
 
 
